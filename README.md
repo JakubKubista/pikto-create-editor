@@ -97,3 +97,6 @@ POST /uploads
 - The name of the file input has to be `upload` as this is what the server will be reading from
 - The server only accepts `png` and `jpeg` file format
 - You are allowed to edit the server.js file
+
+### Created by
+[Piktochart](https://piktochart.com/).
