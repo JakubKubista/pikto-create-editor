@@ -33,7 +33,7 @@ let filter = ( req, file, cb ) => {
 let upload = multer( {
   storage: storage,
   fileFilter: filter
-}).single( 'upload' );
+}).single( 'file' );
 
 /* ===============================
   ROUTE
